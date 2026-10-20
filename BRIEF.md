@@ -8,7 +8,7 @@ A personal Link-in-bio page. One page, clear design, mobile-first. I want to sen
 
 ## Design
 - Centered card layout, max-width 480px
-- My name as a heading, short bio underneath
+- My name as a heading, short bio underneath which reads "Writer and strategist wrangling life's adventures to tell stories and build connections."  
 - Profile photo placeholder (circle, 120px)
 - Light mode by default with a light/dark toggle
 - smooth hover animations over the link buttons
