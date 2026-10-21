@@ -1,6 +1,6 @@
 # My Links
 
-A responsive, single-page link-in-bio site built with plain HTML, CSS, and JavaScript. No build step or framework is required.
+A responsive link-in-bio site with a profile page and an About page, built with plain HTML, CSS, and JavaScript. No build step or framework is required.
 
 ## Run locally
 
@@ -12,4 +12,4 @@ Import this repository into Vercel and deploy it as a static site from the repos
 
 ## Customize
 
-Update the name, bio, avatar initials, and link destinations in `index.html`. The theme toggle remembers the selected color mode in the browser.
+Update the name, bio, avatar initials, and link destinations in `index.html`. Update the professional bio in `about.html`. The theme toggle remembers the selected color mode in the browser.

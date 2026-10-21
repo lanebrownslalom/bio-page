@@ -169,6 +169,13 @@ h1 {
   line-height: 1.6;
 }
 
+.about-copy {
+  margin: 24px 0 30px;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.75;
+}
+
 .link-list {
   display: grid;
   gap: 12px;
